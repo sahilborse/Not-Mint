@@ -1,4 +1,5 @@
-# NoteMint
+## NoteMint
+# not-mint.vercel.app
 
 ![Screenshot 2024-09-23 201952](https://github.com/user-attachments/assets/9f91ff91-a69b-4322-9ef1-eabce9200453)
 
